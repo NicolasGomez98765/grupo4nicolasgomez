@@ -8,7 +8,7 @@ Curso de Programación 2, Universidad Nacional de Lujan
 ##### Racker José – Ayudante de 1era
 ##### Reinaudi Claudia – Ayudante de 1era
 ## N° de grupo: 01
-## Alumnos:
+## Alumnos: Conforti Walter/ 143014/walterrrrleandro@hotmail.com
 
 Apellido y Nombre // Legajo // Mails
 
